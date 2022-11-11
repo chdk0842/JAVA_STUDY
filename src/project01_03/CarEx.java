@@ -4,6 +4,7 @@ public class CarEx {
 
 	public static void main(String[] args) {
 		Car myCar = new Car	("그렌저","검정",250);
+		
 	    
 		
 		System.out.println(myCar.company);
