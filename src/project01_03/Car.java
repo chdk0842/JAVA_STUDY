@@ -9,6 +9,7 @@ public class Car {
 	int speed;
 // boolean start;
 // int speed;
+	//수정
 
 	// 자바에선 생성자를 명시하지 않으면 컴파일 과정에서 생성자를 생성해준다.
 	
