@@ -1,5 +1,7 @@
 package project01_02;
 
+import project01_03.Car;
+
 public class Test06 {
 
 	public static void main(String[] args) {
@@ -16,6 +18,7 @@ public class Test06 {
       
       int result = num1 + num2;
       System.out.println("결과:" + result);
+      
       
 	}
 

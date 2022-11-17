@@ -8,10 +8,10 @@ public class Car {
 	int maxSpeed ;
 	int speed;
 // boolean start;
-// int speed;
 
 
 	// 자바에선 생성자를 명시하지 않으면 컴파일 과정에서 생성자를 생성해준다.
+//    Car(){}
 	
     Car(String model){
 //    	this.model = model;
