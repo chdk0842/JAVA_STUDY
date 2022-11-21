@@ -14,7 +14,6 @@ public class Account {
        this.owner = owner;
        this.balance = balance;
 	}
-
 	// get,set 함수 넣어야함 우클릭 소스부르기
 	// 매소드
 	public String getAno() {
