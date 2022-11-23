@@ -12,6 +12,7 @@ public class VIPCustomerOther extends Customer{
 			super.bonusRatio = 0.03;
 			this.saleRatio = 0.2;
 			this.agentID = agentID;
+		
 		}
 		
 		//오버라이드 메소드 소스 불러오기

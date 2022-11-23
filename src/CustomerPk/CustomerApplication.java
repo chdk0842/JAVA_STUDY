@@ -5,7 +5,8 @@ import java.util.ArrayList;
 
 public class CustomerApplication {
 	// Customer 객체를 저장할 ArrayList를 생성
-	private static ArrayList<Customer> customerList = new ArrayList<Customer>();
+	private static ArrayList <Customer> customerList = new ArrayList <Customer>();
+	
 
 	public static void main(String[] args) {
 		// 일반 고객
@@ -71,7 +72,7 @@ public class CustomerApplication {
 	    int cost = customer.calcPrice(price);
 	    System.out.println(customer.getCustomerName() + "님의 지불금액 : " + cost + "원");
 	    System.out.println(customer.getCustomerName() + "님의 현재 보너스 포인트 : " + customer.bonusPoint + "점");
-	
+
 	
 	}
 

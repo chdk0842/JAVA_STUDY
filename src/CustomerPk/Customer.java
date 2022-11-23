@@ -20,7 +20,6 @@ public class Customer {
 	}
 
 	// 메소드
-	
 	// 고객 등급 초기화
 	private void initCustomer() {
 		//고객 등급, 포인트 적립비율 초깃값 주기
