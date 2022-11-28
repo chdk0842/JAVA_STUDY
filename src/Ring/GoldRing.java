@@ -6,10 +6,10 @@ public class GoldRing implements RingType {
 
 	@Override
 	public void ringType() {
-		System.out.println("GoldRing을 선택하셨습니다. 예상 금액은 "  + price + "원 입니다.");
+		System.out.println("GoldRing을 선택하셨습니다. 예상 금액은 " + price + "원 입니다.");
 	}
-	
-	
+
+
 
 	
 
