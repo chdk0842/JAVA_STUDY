@@ -10,5 +10,11 @@ public class RoseGoldRing implements RingType{
 		
 	}
 
+	@Override
+	public int price1() {
+		// TODO Auto-generated method stub
+		return 400000;
+	}
+
 	
 }

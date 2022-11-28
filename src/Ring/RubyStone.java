@@ -10,4 +10,9 @@ public class RubyStone implements StoneType{
 		
 	}
 
+	@Override
+	public int price2() {
+		return 500000;
+	}
+
 }

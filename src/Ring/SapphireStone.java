@@ -10,4 +10,9 @@ public class SapphireStone implements StoneType {
 		
 	}
 
+	@Override
+	public int price2() {
+		return 600000;
+	}
+
 }

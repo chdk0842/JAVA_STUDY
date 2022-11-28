@@ -9,6 +9,12 @@ public class DiaStone implements StoneType{
 	public void stoneType() {
 		System.out.println("DiaStone을 선택하셨습니다. 예상 금액은 " + price + "원 입니다.");
 	}
+
+
+	@Override
+	public int price2() {
+		return 800000;
+	}
 	
 	
 

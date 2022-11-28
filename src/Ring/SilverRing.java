@@ -10,6 +10,11 @@ public class SilverRing implements RingType {
 		
 	}
 
+	@Override
+	public int price1() {
+		return 300000;
+	}
+
 
 
 }
