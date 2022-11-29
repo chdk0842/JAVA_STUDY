@@ -7,7 +7,7 @@ public class RingEx{
        System.out.println("** 회원님의 반지 예상 견적은? ** \n");
        
        //Ring Type (type1) 객체 교체
-       myRing.ringType = new SilverRing();
+       myRing.ringType = new GoldRing();
        
        //Stone Type (type2) 객체 교체
        myRing.stoneType = new RubyStone();
